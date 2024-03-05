@@ -10,7 +10,7 @@
 #clone_dir="stable-diffusion-webui"
 
 # Commandline arguments for webui.py, for example: export COMMANDLINE_ARGS="--medvram --opt-split-attention"
-#export COMMANDLINE_ARGS="--share --vae-path=C:\Users\zarya\stable-diffusion-webui\models\VAE\Counterfeit-V2.5.vae.pt --no-half-vae --skip-torch-cuda-test --skip-python-version-check"
+#export COMMANDLINE_ARGS="--share --vae-path=C:\Users\zarya\stable-diffusion-webui\models\VAE\Counterfeit-V2.5.vae.pt --no-half-vae --skip-torch-cuda-test"
 
 # python3 executable
 #python_cmd="python3"
